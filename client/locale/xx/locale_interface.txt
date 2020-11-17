@@ -1,0 +1,3 @@
+SAVE_MAPS_TITLE	Zapisane pozycje
+SAVE_MAPS_ENTER_NAME	WprowadŸ nazwê
+SAVE_MAPS_SAVE	Zapisz

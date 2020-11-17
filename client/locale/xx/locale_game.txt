@@ -1,0 +1,2 @@
+SAVE_MAPS_POSITION	Pozycje: [%d, %d]
+SAVE_MAPS_EMPTY_SLOT	Pusta pozycja
